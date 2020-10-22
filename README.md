@@ -2,4 +2,4 @@
 
 On devrait toujours avoir un `README.md`.
 
-X est une mauvaise personne!
+Maxime est une mauvaise personne!
