@@ -1,3 +1,3 @@
 # Pratique-GitHub
 
-Ceci est un répo pour apprendre la base de Github.
+Ceci est un *repository* pour apprendre la base de Github.
